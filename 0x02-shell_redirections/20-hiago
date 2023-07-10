@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "tr 'C' 'c'"
+tr -d 'cC'
